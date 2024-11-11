@@ -16,9 +16,10 @@ Similarly Bob also selects a public key b and computes his secret key as B and s
 Now both of them compute their common secret key as the other one’s secret key power of a mod p.
 
 ## PROGRAM:
-## DEVELOPED BY : KIRUBANITHI.S
-## REGISTER NO. : 212223220047
 ```c
+
+//DEVELOPED BY : Vignesh R
+// REGISTER NO. : 212223240177
 #include <stdio.h>
 
 
